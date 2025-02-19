@@ -1,14 +1,15 @@
 # Lecture Notes and homework will available here
-Join our class via Zoom at 4 PM (CET) on Tuesday and Saturday: Click https://cern.zoom.us/j/62851469905?pwd=cmN3afnGMla0e3h2vc90e3Zjs1tMJg.1 to start or join a scheduled Zoom meeting.
-This Lecture series will help you not only to enhance your understanding in Nuclear and Particle Physics but also it will help you to think deeply about basic and fundamental concepts which are backbone of Nuclear and Particle Physics. Our lecture will be interactive, so I hope you will take part in the discussion during the course as well as help me to construct our course in such a way that it will be not boring lecture series. We will together build this course in such a way that both of us will enjoy as a instructor as well as you.
+Join our class on Zoom at 4 PM (CET) every Tuesday and Saturday by clicking this link: [https://cern.zoom.us/j/62851469905?pwd=cmN3afnGMla0e3h2vc90e3Zjs1tMJg.1](https://cern.zoom.us/j/62851469905?pwd=cmN3afnGMla0e3h2vc90e3Zjs1tMJg.1) to start or join a scheduled meeting.
+
+This lecture series is designed to not only deepen your understanding of Nuclear and Particle Physics but also encourage you to think critically about the fundamental concepts that form the backbone of these fields. Our lectures will be interactive, and I encourage you to participate in discussions throughout the course. Together, we will shape the content in a way that ensures it remains engaging and enjoyable, making this an experience both you and I will enjoy as instructor and student.
 ## Nuclear and Particle Physics 
 ### Introduction 
-In the introduction lecture, we will talk about some basic and fundamental concepts of Nuclear and Particle Physics. This introductory lecture will be very important to build our foundation of this course. I am strongly recommend you to follow this introductory lecture with great attention. Here we will discuss about following topics:
-- Fundamental Units of High Energy Physics
-- Brief introduction to Quantum Mechanics
-- Wave Particle Duality
-- Harmonic Oscillatory in Quantum Mechanics
-- Field and Particle
-- Annihilation and Creation Operator
-- Relativistic Kinematics
-  
+In the introductory lecture, we will cover some of the fundamental concepts in Nuclear and Particle Physics. This lecture is crucial for establishing the foundation of the course, so I strongly recommend paying close attention. During this session, we will discuss the following topics:
+
+- Fundamental Units of High Energy Physics  
+- A Brief Introduction to Quantum Mechanics  
+- Wave-Particle Duality  
+- Harmonic Oscillators in Quantum Mechanics  
+- Fields and Particles  
+- Annihilation and Creation Operators  
+- Relativistic Kinematics  
